@@ -1,0 +1,35 @@
+[29704:488:0703/113029.223:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[29704:22764:0703/113029.295:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[29704:488:0703/113029.342:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[29704:22764:0703/113031.371:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:26536:0703/113031.373:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:26536:0703/113031.375:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:26536:0703/113031.377:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:27056:0703/113032.365:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:27056:0703/113032.366:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13860:30684:0703/113033.529:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-093CE8EAD8F3468E84103D60AEF94B7B will be ignored
+[14116:27916:0703/113033.531:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[14116:27916:0703/113033.539:ERROR:backend_impl.cc(989)] Critical error found -8
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.539:ERROR:entry_impl.cc(1029)] No file for c1030004
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.539:ERROR:entry_impl.cc(1029)] No file for c103000a
+[14116:27916:0703/113033.539:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.541:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.713:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.713:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.713:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.713:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.715:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.715:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.723:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.723:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113033.725:ERROR:entry_impl.cc(955)] Failed to save user data
+[14116:27916:0703/113034.074:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113034.074:WARNING:storage_block-inl.h(138)] Failed data load.
+[14116:27916:0703/113034.074:WARNING:storage_block-inl.h(138)] Failed data load.
+[29704:26720:0703/113036.656:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\koyo\Documents\UE_EmploymentGame2\UE_EmploymentGame\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29704:488:0703/121714.104:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
